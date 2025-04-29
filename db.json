@@ -1,4 +1,4 @@
-  {
+{
   "name": "aldrin-json-server",
   "version": "1.0.0",
   "main":"index.js",
@@ -8,3 +8,4 @@
   "dependencies": {
     "json-server": "^0.17.0"
   }
+}
